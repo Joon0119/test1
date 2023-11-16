@@ -23,7 +23,7 @@ public class HomeController {
 		
 		String commit_1 = "test";
 		String commit_2 = "test";
-		
+		String commit_3 = "test";
 		return "home";
 	}
 	
